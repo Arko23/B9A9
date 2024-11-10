@@ -1,0 +1,74 @@
+[
+  {
+    "estate_title": "Modern Villa with Ocean View",
+    "id": "001",
+    "segment_name": "Residential",
+    "description": "Luxurious villa with breathtaking ocean view, featuring spacious living areas, private pool, and gourmet kitchen.",
+    "price": "$2,500,000",
+    "status": "sale",
+    "area": "3500 sq ft",
+    "location": "Malibu, California",
+    "facilities": ["living room", "swimming pool", "kitchen"],
+    "image_url": "https://i.ibb.co/nLnnhFj/outdoor-deck.jpg"
+  },
+  {
+    "estate_title": "Cozy Family Home",
+    "id": "002",
+    "segment_name": "Residential",
+    "description": "Charming family home perfect for gatherings, with a cozy fireplace, beautiful garden, and outdoor patio.",
+    "price": "$500,000",
+    "status": "sale",
+    "area": "2000 sq ft",
+    "location": "Austin, Texas",
+    "facilities": ["living room", "garden", "kitchen"],
+    "image_url": "https://i.ibb.co/qswx6V7/pngtree-a-spacious-countryside-home-with-an-rv-trailer-parked-in-the-driveway-perfect-for-a-large-fa.jpg"
+  },
+  {
+    "estate_title": "Luxury Apartment in City Center",
+    "id": "003",
+    "segment_name": "Residential",
+    "description": "Sophisticated apartment offering urban living at its finest, with modern amenities and stunning city views.",
+    "price": "$1,200,000",
+    "status": "sale",
+    "area": "1800 sq ft",
+    "location": "New York City, New York",
+    "facilities": ["living room", "gym", "kitchen"],
+    "image_url": "https://i.ibb.co/Vxvt6vt/24e8f08ba83e34213572acbdb1061bf0.jpg"
+  },
+  {
+    "estate_title": "Spacious Countryside Retreat",
+    "id": "004",
+    "segment_name": "Residential",
+    "description": "Escape to this peaceful countryside retreat, featuring expansive grounds, a tranquil pond, and rustic charm.",
+    "price": "$800,000",
+    "status": "sale",
+    "area": "4000 sq ft",
+    "location": "Asheville, North Carolina",
+    "facilities": ["living room", "pond", "kitchen"],
+    "image_url": "https://i.ibb.co/6D6qgcT/b25l-Y21z-Oj-Q5-MDA5-ZTI5-LWFj-Zjkt-NDc3-YS04-ZDcz-LWM4-OWZl-OTUy-M2-Y2-NToz-Nm-Vk-NTli-ZC1m-YWVk-LT.jpg"
+  },
+  {
+    "estate_title": "Modern Loft in Trendy Neighborhood",
+    "id": "005",
+    "segment_name": "Residential",
+    "description": "Stylish loft with industrial-chic design, located in a vibrant neighborhood with cafes, galleries, and boutiques.",
+    "price": "$700,000",
+    "status": "sale",
+    "area": "1600 sq ft",
+    "location": "Brooklyn, New York",
+    "facilities": ["living room", "office space", "kitchen"],
+    "image_url": "https://i.ibb.co/zmknXGJ/image-0-1024x1024.jpg"
+  },
+  {
+    "estate_title": "Elegant Townhouse in Historic District",
+    "id": "006",
+    "segment_name": "Residential",
+    "description": "Gracious townhouse with historic charm, featuring period details, garden courtyard, and updated kitchen.",
+    "price": "$1,800,000",
+    "status": "sale",
+    "area": "2800 sq ft",
+    "location": "Charleston, South Carolina",
+    "facilities": ["living room", "garden courtyard", "kitchen"],
+    "image_url": "https://i.ibb.co/0m5XRZ7/istockphoto-1313325675-612x612.jpg"
+  }
+]
